@@ -1,97 +1,102 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# 🛒 ProductListing
+A full-featured React Native app for creating, updating, deleting, and browsing products with user authentication.
 
-# Getting Started
+This project demonstrates skills in **React Native, Redux Toolkit, API integration, and modern mobile app design**.
 
-> **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
+---
 
-## Step 1: Start Metro
+## 📸 Screenshots
 
-First, you will need to run **Metro**, the JavaScript build tool for React Native.
+### 🏠 Splash Screen
+![Simulator Screenshot - iPhone 16 Pro - 2025-07-09 at 10 01 37](https://github.com/user-attachments/assets/8ddbe7df-007d-40f3-9aa9-747c1719a21b)
 
-To start the Metro dev server, run the following command from the root of your React Native project:
+### 🔑 Login Screen
+![Login Screen] 
+![Simulator Screenshot - iPhone 16 Pro - 2025-07-09 at 10 04 01](https://github.com/user-attachments/assets/04fd955a-150d-4f1c-a742-a70bb0f10abc)
 
-```sh
-# Using npm
-npm start
+### 📝 Sign Up Screen
+![SignUp Screen] 
+![simulator_screenshot_44F302F2-94A0-4798-AC24-F8CA4457B24E](https://github.com/user-attachments/assets/519d2e4c-7318-4a2e-bc68-2c0e6c422752)
 
-# OR using Yarn
-yarn start
-```
+### 🏡 Home Screen
+- Create products with image, title, and description
+  ![Home Screen]
+  ![simulator_screenshot_F2216B27-25CE-4C01-AB70-F6E1005B993A](https://github.com/user-attachments/assets/f42c46ca-c9c5-405d-8838-eef6ea33cd2b)
 
-## Step 2: Build and run your app
+### 👤 Profile Screen
+- Displays logged-in user details
+  ![Profile Screen]
+  ![simulator_screenshot_DFF20229-285D-40D9-A346-042374A92CC7](https://github.com/user-attachments/assets/1c4f3ceb-cb8f-40c1-a3b4-4687b9f9698b)
 
-With Metro running, open a new terminal window/pane from the root of your React Native project, and use one of the following commands to build and run your Android or iOS app:
+### 🗂 Product List Screen
+- Browse all created products
+  ![Product List Screen] 
+![simulator_screenshot_595675D1-0466-45EB-BAE1-AA330D21FECB](https://github.com/user-attachments/assets/b5bcf493-fa3e-487a-a080-87fbcb038594)
 
-### Android
+### ✏️ Product Update Screen
+- Update product image, title, and description
+  ![Product Update Screen]
+  ![simulator_screenshot_0B6B0AF7-20FF-4612-9CAC-AFE47C9B78FD](https://github.com/user-attachments/assets/f739972d-4328-459c-b3ea-ee4d7486567c)
 
-```sh
-# Using npm
-npm run android
+### 🔍 Product Search
+- Filters products in real-time by title
+- Improves discoverability in large lists
+  ![Product Search Screen]
+  ![Simulator Screenshot - iPhone 16 Pro - 2025-07-09 at 10 12 44](https://github.com/user-attachments/assets/acf12f6e-834f-4c31-9491-2e231470d498)
 
-# OR using Yarn
-yarn android
-```
+### 📄 Product Details Screen
+- **Product Image** – prominently shown at the top
+- **Title** – e.g., *Product1*
+- **Status** – indicates if the product is active (*Status: Active*)
+- **Description** – a short text describing the product (*Good and clean useful*)
+- **Timestamps** – shows created and updated date & time
+  ![Product Details Screen]
+  ![simulator_screenshot_4F52FCC1-E4F0-4407-9736-F6697DE4CA64](https://github.com/user-attachments/assets/a6ae4316-22ef-488e-b594-3a21d75c9fa5)
 
-### iOS
+---
+## ✨ Features
+- User authentication (login/signup)
+- Create, update, delete products
+- Product listing with real-time search
+- View product details with status and timestamps
 
-For iOS, remember to install CocoaPods dependencies (this only needs to be run on first clone or after updating native deps).
+## 🛠 Tech Stack
+- React Native
+- Redux Toolkit
+- Axios
 
-The first time you create a new project, run the Ruby bundler to install CocoaPods itself:
+## 🚀 Installation
+git clone https://github.com/maitiachintya/ProductListing.git
+cd ProductListing
+npm install
+npx react-native run-android
 
-```sh
-bundle install
-```
+## 🚀 How to Use
+Launch the app.
 
-Then, and every time you update your native dependencies, run:
+Sign up or log in.
 
-```sh
-bundle exec pod install
-```
+Create new products.
 
-For more information, please visit [CocoaPods Getting Started guide](https://guides.cocoapods.org/using/getting-started.html).
+Browse and search products.
 
-```sh
-# Using npm
-npm run ios
+Update or delete products.
 
-# OR using Yarn
-yarn ios
-```
+View detailed information about each product.
 
-If everything is set up correctly, you should see your new app running in the Android Emulator, iOS Simulator, or your connected device.
 
-This is one way to run your app — you can also build it directly from Android Studio or Xcode.
+📞 Contact : +91 8972557939
+Achintya Maiti
 
-## Step 3: Modify your app
+https://www.linkedin.com/in/achintya-maiti-reactfrontend/
 
-Now that you have successfully run the app, let's make changes!
+Email
+achintyamaiti20@gmail.com
 
-Open `App.tsx` in your text editor of choice and make some changes. When you save, your app will automatically update and reflect these changes — this is powered by [Fast Refresh](https://reactnative.dev/docs/fast-refresh).
+---
+This project demonstrates skills in React Native architecture, state management with Redux, and modern mobile UI.
 
-When you want to forcefully reload, for example to reset the state of your app, you can perform a full reload:
+If you prefer, I can help you **generate the exact Markdown with the screenshot links once you upload them to GitHub.**
 
-- **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Dev Menu**, accessed via <kbd>Ctrl</kbd> + <kbd>M</kbd> (Windows/Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (macOS).
-- **iOS**: Press <kbd>R</kbd> in iOS Simulator.
+Let me know!
 
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [docs](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you're having issues getting the above steps to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
