@@ -2,7 +2,6 @@ import React from 'react';
 import Home from '../../screens/main/Home/index';
 import List from '../../screens/main/List/index'
 import ProfileScreen from '../../screens/main/Profile/index';
-import Settings from '../../screens/main/Settings/index'
 import {
   BottomTabScreenProps,
   createBottomTabNavigator,
