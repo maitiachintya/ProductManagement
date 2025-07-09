@@ -414,7 +414,7 @@ const List = () => {
               },
             ]}
             style={{
-              color: Colors.black,
+              color: Colors.white,
             }}
             placeholderColor="#888"
           />
