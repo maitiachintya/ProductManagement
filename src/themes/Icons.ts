@@ -1,0 +1,17 @@
+export const Icons = {
+  close: require('../assets/icons/close.png'),
+  delete: require('../assets/icons/delete.png'),
+  backArrow: require('../assets/icons/back.png'),
+  wtsLogo: require('../assets/icons/webskitters.jpeg'),
+  bgTheme: require('../assets/images/bgTheme.jpeg'),
+  dot: 'https://cdn-icons-png.flaticon.com/128/8265/8265301.png',
+  logout: 'https://cdn-icons-png.flaticon.com/128/18844/18844589.png',
+  home: 'https://cdn-icons-png.flaticon.com/128/1946/1946436.png',
+  list: 'https://cdn-icons-png.flaticon.com/128/1950/1950630.png',
+  profile: 'https://cdn-icons-png.flaticon.com/128/266/266033.png',
+  email: 'https://cdn-icons-png.flaticon.com/128/2099/2099199.png',
+  visible: 'https://cdn-icons-png.flaticon.com/128/3395/3395544.png',
+  invisible: 'https://cdn-icons-png.flaticon.com/128/4175/4175339.png',
+  showCheck: 'https://cdn-icons-png.flaticon.com/128/2740/2740618.png',
+  emptyCheck: 'https://cdn-icons-png.flaticon.com/128/16025/16025483.png',
+};
