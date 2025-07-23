@@ -46,7 +46,7 @@ This project demonstrates skills in **React Native, Redux Toolkit, API integrati
 
 ### 📄 Product Details Screen
 - **Product Image** – prominently shown at the top
-- **Title** – e.g., *Product1*
+- **Title** – e.g., *Kalifornia place*
 - **Status** – indicates if the product is active (*Status: Active*)
 - **Description** – a short text describing the product (*Good and clean useful*)
 - **Timestamps** – shows created and updated date & time
