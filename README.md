@@ -62,7 +62,7 @@ This project demonstrates skills in **React Native, Redux Saga, API integration,
 
 ## 🛠 Tech Stack
 - React Native
-- Redux Toolkit
+- Redux Saga
 - Axios
 
 ## 🚀 Installation
