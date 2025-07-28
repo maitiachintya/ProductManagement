@@ -1,7 +1,7 @@
 # 🛒 ProductListing
 A full-featured React Native app for creating, updating, deleting, and browsing products with user authentication.
 
-This project demonstrates skills in **React Native, Redux Toolkit, API integration, and modern mobile app design**.
+This project demonstrates skills in **React Native, Redux Saga, API integration, and modern mobile app design**.
 
 ---
 
